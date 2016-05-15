@@ -7,27 +7,27 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Conference name",
-      description: "Conference description",
-      date: "November 15",
+      name: "Unidev",
+      description: "3ª edição",
+      date: "04 de Junho",
       // If your event is free, just comment this line
-      price: "$100",
-      venue: "Coco Bongo",
-      address: "Boulevard Kukulcan, 30",
-      city: "Cancún",
-      state: "Quintana"
+      //price: "$100",
+      venue: "Unifor",
+      address: "Av. Washington Soares, 1321 - Edson Queiroz, Fortaleza - CE, 60811-905",
+      city: "Fortaleza",
+      state: "Ceará"
     },
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
     callToAction: {
-        text: "Register now!",
+        text: "Inscrição",
         link: "http://eventick.com.br"
     },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
     forkButton: {
-        repository: "https://github.com/braziljs/conf-boilerplate"
+        repository: "https://github.com/UnidevCE/unidevce.github.io"
     },
 
     // Site info
@@ -45,19 +45,19 @@ module.exports = {
       'location',
       'speakers',
       'schedule',
-      'sponsors',
+      //'sponsors',
       'partners'
       // 'contact'
     ],
 
     // Labels which you can translate to other languages
     labels: {
-      about: "About",
-      location: "Location",
-      speakers: "Speakers",
-      schedule: "Schedule",
-      sponsors: "Sponsors",
-      partners: "Partners",
+      about: "Sobre",
+      location: "Localização",
+      speakers: "Palestrantes",
+      schedule: "Agenda",
+      sponsors: "Patrocinadores",
+      partners: "Parceiros",
       contact: "Contact"
     },
 
@@ -179,9 +179,9 @@ module.exports = {
     // List of Partners
     partners: [
       {
-        name: "BrazilJS",
-        logo: "themes/yellow-swan/img/partner.png",
-        url: "http://braziljs.org"
+        name: "Unifor",
+        logo: "http://www.jaoodontounifor.com/wp-content/uploads/2015/09/uniforlogo.png",
+        url: "http://www.unifor.br/"
       }
     ],
 
