@@ -22,7 +22,7 @@ module.exports = {
         // If you don't want this, just remove the callToAction property.
         callToAction: {
             text: "Submeta sua palesta!",
-            link: "http://eventick.com.br"
+            link: "http://speakerfight.com/events/unidev-10/"
         },
 
         // "Fork me on GitHub", if you don't want this, just remove the forkButton property
