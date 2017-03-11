@@ -19,7 +19,7 @@
   <meta property="og:image" content="<%= @getUrl() %>/<%= @getTheme() %>/img/badge.jpg">
   <!-- / FACEBOOK -->
 
-  <link rel="shortcut icon" href="<%= @getTheme() %>/img/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="<%= @getTheme() %>/img/face_evento.jpg" type="image">
   <link rel="apple-touch-icon" href="<%= @getTheme() %>/img/apple-touch-icon.png">
 
   <!-- STYLES -->

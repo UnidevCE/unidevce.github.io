@@ -1,6 +1,6 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
-<p itemprop="description">So you want to organize a conference? That's pretty awesome! But we know that you don't have time to create the website, since you have to worry about contacting sponsors, chossing the right place, buying airplane tickets for speakers and many other things.</p>
+<p itemprop="description">Estamos de volta! Depois de um tempo sem realizarmos o evento, estamos de volta e com força total! Com a volta do Unidev 1.0 queremo a presença de todos, dos que já participaram em versões anteriores aos que ainda não conhecem o evento, apareçam e venha tornar o evento ainda muito mais bacana.</p>
 
-<p>That's why we created this project! <a href="https://github.com/braziljs/conf-boilerplate" target="_blank">Conf Boilerplate</a> is an iniciative of <a href="http://braziljs.org" target="_blank">BrazilJS Foundation</a> that provides a simple structure built on top of Docpad, a static generator in NodeJS, with all the things you need to create a event. We also provide a responsive template with i18n!</p>
+<p>O Unidev continua com a mesma visão, de não levantar bandeira de tecnologias específicas, acreditamos que todo conhecimento é bem vindo. Sendo assim se você tem interesse em em palestrar ou fazer um hands on com a galera <a href="https://www.sympla.com.br/unidev-10__125082" target="_blank">submeta sua palestra</a> estamos esperando por vocês.</p>
 
-<p>This is just a live demo, check our <a href="https://github.com/braziljs/conf-boilerplate" target="_blank">repository on Github</a> for more details =D</p>
+<p>E dia 06 de maio queremos ver todos vocês lá na Unifor com a gente. Para a emissão do certificado não deixe de se <a href="https://www.sympla.com.br/unidev-10__125082" target="_blank">inscrever!</a></p>
